@@ -6,16 +6,7 @@
 
 <br />
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#table-of-contents)
-
-## ➤ Table of Contents
-
-	* [References](#references)
-		* [Day One](#day-one)
-* [➤ License](#-license)
 ### References
-
 #### Day One
 
 - [Node.js](https://nodejs.org/en/)

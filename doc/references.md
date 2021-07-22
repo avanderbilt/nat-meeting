@@ -1,5 +1,4 @@
 ### References
-
 #### Day One
 
 - [Node.js](https://nodejs.org/en/)
