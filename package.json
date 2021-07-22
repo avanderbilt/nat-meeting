@@ -1,0 +1,28 @@
+{
+  "name": "node_template",
+  "version": "1.0.0",
+  "description": "This is my node.js template project.",
+  "main": "bin/index.js",
+  "scripts": {
+    "go": "nodemon .",
+    "readme": "readme generate",
+    "trace": "nodemon --trace-warnings .",
+    "doc": "jsdoc --configure ./jsdoc.json --recurse --readme ./README.md --package ./package.json .",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Arthur Vanderbilt",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "@appnest/readme": "^1.2.7",
+    "jest": "^27.0.6",
+    "nodemon": "^2.0.12"
+  },
+  "bin": {
+    "kitties": "./bin/index.js"
+  }
+}
